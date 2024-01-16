@@ -1,0 +1,12 @@
+header {
+    background-color: rgb(245, 218, 42);
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3)
+}
+header h1 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    align-items: center;
+}
